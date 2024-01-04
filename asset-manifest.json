@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2a6be6a4.css",
+    "main.js": "/static/js/main.9e185cc5.js",
+    "static/media/hero.png": "/static/media/hero.0ef8778f5eb89656a434.png",
+    "static/media/email.png": "/static/media/email.ba3d78aae0b730bb06c2.png",
+    "static/media/react.png": "/static/media/react.46d72d88bce4ebcf0c80.png",
+    "static/media/res.pdf": "/static/media/res.b7f400b77e1087255fd6.pdf",
+    "static/media/redux.png": "/static/media/redux.c9be37e0fece29c624b0.png",
+    "static/media/sass.png": "/static/media/sass.36e863bfbcb25c109d00.png",
+    "static/media/node.png": "/static/media/node.8683d89cf78ffae3d1f7.png",
+    "static/media/cpp.png": "/static/media/cpp.9002a804bbfa0354d0b8.png",
+    "static/media/mobile.png": "/static/media/mobile.145d9ce0157a56f8fcd8.png",
+    "static/media/resume.png": "/static/media/resume.b0960dae6c34b4ecd864.png",
+    "static/media/css.png": "/static/media/css.5721a3928fe43de6baf8.png",
+    "static/media/git.png": "/static/media/git.a54d3fa44e02f2f61e69.png",
+    "static/media/vsCode.svg": "/static/media/vsCode.5f6c87ee85944898b6682f2a2a13df91.svg",
+    "static/media/bootstrap.svg": "/static/media/bootstrap.3a162f65200426203695ee878e6b62fb.svg",
+    "static/media/tailwind.svg": "/static/media/tailwind.fa33f4e8e025e5e800a2b8938c449152.svg",
+    "index.html": "/index.html",
+    "main.2a6be6a4.css.map": "/static/css/main.2a6be6a4.css.map",
+    "main.9e185cc5.js.map": "/static/js/main.9e185cc5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2a6be6a4.css",
+    "static/js/main.9e185cc5.js"
+  ]
+}
